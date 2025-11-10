@@ -1,9 +1,9 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using sso_tester_app.Models;
+using oidc_tester_app.Models;
 using Microsoft.AspNetCore.Authorization;
 
-namespace sso_tester_app.Controllers;
+namespace oidc_tester_app.Controllers;
 
 [Authorize]
 public class HomeController : Controller

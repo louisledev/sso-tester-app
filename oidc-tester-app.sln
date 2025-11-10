@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sso-tester-app", "sso-tester-app.csproj", "{05AB1DBD-F308-8173-5402-6DA35AA826C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oidc-tester-app", "oidc-tester-app.csproj", "{05AB1DBD-F308-8173-5402-6DA35AA826C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

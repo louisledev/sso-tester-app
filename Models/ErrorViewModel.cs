@@ -1,4 +1,4 @@
-namespace sso_tester_app.Models;
+namespace oidc_tester_app.Models;
 
 public class ErrorViewModel
 {

@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>sso_tester_app</RootNamespace>
+    <RootNamespace>oidc_tester_app</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

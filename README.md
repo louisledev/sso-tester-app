@@ -34,7 +34,7 @@ libman restore
 To build the project, run:
 
 ```
-dotnet build ./sso-tester-app.sln
+dotnet build ./oidc-tester-app.sln
 ```
 
 ## Running the Project
@@ -45,7 +45,7 @@ To run the project locally, use:
 dotnet run
 ```
 
-The application will start and provide a local URL (e.g., http://localhost:5000) in the console output.
+The application will start and provide a local URL (e.g., https://localhost:5001) in the console output.
 
 ## Configuration
 
