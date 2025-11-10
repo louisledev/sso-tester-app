@@ -1,0 +1,24 @@
+/appsettings.Development.json
+/obj/
+/bin/
+wwwroot/lib/
+
+# IDE folders
+.vs/
+.idea/
+
+# User-specific files
+*.user
+*.suo
+
+# OS and temp files
+*.DS_Store
+*.swp
+*.tmp
+*.log
+
+# Local DB files
+*.db
+
+# Node.js (if used)
+node_modules/
