@@ -1,6 +1,6 @@
-# SSO Tester App
+# OIDC Tester App
 
-This project is an ASP.NET Core web application for testing SSO integrations.
+This project is an ASP.NET Core web application for testing OIDC integrations.
 When running the application, it connects to a specified identity provider using OpenID Connect, and displays user information upon successful authentication.
 
 ## Prerequisites
