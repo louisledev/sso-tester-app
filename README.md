@@ -34,7 +34,7 @@ libman restore
 To build the project, run:
 
 ```
-dotnet build
+dotnet build ./sso-tester-app.sln
 ```
 
 ## Running the Project

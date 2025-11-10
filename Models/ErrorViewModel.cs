@@ -1,4 +1,4 @@
-namespace my_local_app.Models;
+namespace sso_tester_app.Models;
 
 public class ErrorViewModel
 {

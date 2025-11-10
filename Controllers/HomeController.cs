@@ -1,9 +1,9 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using my_local_app.Models;
+using sso_tester_app.Models;
 using Microsoft.AspNetCore.Authorization;
 
-namespace my_local_app.Controllers;
+namespace sso_tester_app.Controllers;
 
 [Authorize]
 public class HomeController : Controller
